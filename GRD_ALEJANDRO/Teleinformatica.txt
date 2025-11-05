@@ -1,4 +1,10 @@
+<<<<<<< HEAD
+Diego Alejandro Nonzoque Jimenez Tecnologo en Gestion de Redes de Datos 
+Centro de Gestion de Mercados,Logistica y Tecnologias de la informacion
+ Ficha: 2995643
+=======
 Diego Alejandro Nonzoque Jimenez 
 Tecnologo en Gestion de Redes de Datos 
 Centro de Gestion de Mercados,Logistica y Tecnologias de la informacion
 Ficha 2995643
+>>>>>>> 6421be3a6c0ffcb20ecbf1efa9876cc62d43dea4
